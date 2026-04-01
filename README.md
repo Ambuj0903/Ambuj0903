@@ -1,3 +1,5 @@
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Ambuj%20Singh&fontSize=40)
+
 # 🚀 Ambuj Singh
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Java+Developer;Problem+Solver;Future+Software+Engineer;Always+Learning..." />
