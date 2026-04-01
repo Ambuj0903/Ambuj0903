@@ -38,27 +38,27 @@
 
 ## 📊 GitHub Stats
 
-![Ambuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=tokyonight)
+![Ambuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ambuj0903\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambuj0903\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ambuj0903\&theme=tokyonight)
 
 ---
 
 ## 🏆 Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-username\&theme=tokyonight)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ambuj0903\&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect
 
-🔗 https://github.com/your-username
+🔗 https://github.com/Ambuj0903
 
 ---
 
